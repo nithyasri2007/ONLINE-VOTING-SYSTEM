@@ -1,4 +1,4 @@
-# ONLINE-VOTING-SYSTEM
+
 // ONLINE-VOTING-SYSTEM
 #include <stdio.h>
 #include <string.h>
